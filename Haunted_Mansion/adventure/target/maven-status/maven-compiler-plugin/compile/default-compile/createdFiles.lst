@@ -1,0 +1,14 @@
+di\uniba\map\b\adventure\Engine.class
+di\uniba\map\b\adventure\type\Inventory.class
+di\uniba\map\b\adventure\type\AdvObject.class
+di\uniba\map\b\adventure\parser\ParserOutput.class
+di\uniba\map\b\adventure\type\Command.class
+di\uniba\map\b\adventure\type\Enigma.class
+di\uniba\map\b\adventure\GameDescription.class
+di\uniba\map\b\adventure\type\CommandType.class
+di\uniba\map\b\adventure\games\HauntedMansion.class
+di\uniba\map\b\adventure\parser\Parser.class
+di\uniba\map\b\adventure\type\AdvObjectContainer.class
+di\uniba\map\b\adventure\type\ClosedRoom.class
+di\uniba\map\b\adventure\type\Room.class
+di\uniba\map\b\adventure\Utils.class
